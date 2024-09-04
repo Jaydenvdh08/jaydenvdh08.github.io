@@ -16,3 +16,6 @@ li a {
     padding: 16px;
     text-decoration:none;
 }
+li a :hover {
+    background-color: aquamarine;
+}
