@@ -8,6 +8,13 @@ ul{
 }
 li{
     float:left;
+    width: 250px;
+    height: 250px;
+}
+
+li a :hover {
+    background-color: black;
+    color: red;
 }
 li a {
     display: block;
@@ -15,8 +22,4 @@ li a {
     text-align: center;
     padding: 18px;
     text-decoration:none;
-}
-li a :hover {
-    background-color: black;
-    color: purple;
 }
