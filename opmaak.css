@@ -6,15 +6,13 @@ ul{
     overflow:hidden;
     background-color: blue;
 }
-li{
+li a{
     float:left;
 }
-
 li a:hover {
     background-color: red;
     color: purple;
   }
-
 li a {
     display: block;
     color: white;
