@@ -11,7 +11,7 @@ li a{
 }
 li a hover{
     background-color: red;
-    color: purple;
+    color: white;
 }
 li a {
     display: block;
