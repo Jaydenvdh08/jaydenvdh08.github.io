@@ -4,21 +4,21 @@ ul{
     margin:0;
     padding:0;
     overflow:hidden;
-    background-color: lightpink;
+    background-color: blue;
 }
 li{
     float:left;
-    width:18px;
-    height: 18px;
 }
-li a :hover {
+
+li a:hover {
     background-color: red;
     color: purple;
-}
+  }
+
 li a {
     display: block;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 18px;
     text-decoration:none;
 }
