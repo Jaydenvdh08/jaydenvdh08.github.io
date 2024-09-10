@@ -4,7 +4,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: blue;
+    background-color: green;
 }
 li a{
     float: left;
@@ -15,7 +15,7 @@ li a hover{
 }
 li a {
     display: block;
-    color: white;
+    color: yellow;
     text-align: right;
     padding: 18px;
     text-decoration:none;
