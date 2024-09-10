@@ -1,18 +1,18 @@
 body
 ul{
     list-style-type: none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: blue;
 }
 li a{
-    float:left;
+    float: left;
 }
-li a:hover {
+li a hover{
     background-color: red;
     color: purple;
-  }
+}
 li a {
     display: block;
     color: white;
