@@ -9,7 +9,7 @@ ul{
 li a{
     float: left;
 }
-li a hover{
+li a :hover{
     color: red;
 }
 li a {
