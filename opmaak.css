@@ -10,7 +10,8 @@ li a{
     float: left;
 }
 li a :hover{
-    color: red;
+    background-color: red;
+    color: white;
 }
 li a {
     display: block;
