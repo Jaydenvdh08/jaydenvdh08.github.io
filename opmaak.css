@@ -12,8 +12,8 @@ ul{
 li a{
     float: left;
 }
-li a :hover{
-    background-color: aqua;
+li a:hover {
+    background-color: #db3f2b;
     color: white;
 }
 li a {
