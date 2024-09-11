@@ -1,4 +1,7 @@
-body
+body{
+    background-color: beige;
+}
+
 ul{
     list-style-type: none;
     margin: 0;
