@@ -26,5 +26,10 @@ li a {
     text-decoration:none;
 }
 a:visited{
-    color: #db3f2b;
+    color: white;
+}
+.binarybonanza{
+text-align: center;
+border: 4px;
+ border-color: cyan;
 }
