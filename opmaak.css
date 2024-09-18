@@ -20,7 +20,7 @@ li a:hover {
 }
 li a {
     display: block;
-    color: yellow;
+    color: rgb(246, 255, 0);
     text-align: right;
     padding: 18px;
     text-decoration:none;
