@@ -25,3 +25,6 @@ li a {
     padding: 18px;
     text-decoration:none;
 }
+a:hover{
+    color: green;
+}
