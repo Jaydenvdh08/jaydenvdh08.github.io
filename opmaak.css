@@ -25,6 +25,6 @@ li a {
     padding: 18px;
     text-decoration:none;
 }
-a:link{
-    color: rgb(23, 220, 210);
+a:visited{
+    color: #db3f2b;
 }
