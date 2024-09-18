@@ -27,6 +27,5 @@ li a {
 }
 .binarybonanza{
 text-align: center;
-border: 16px;
- border-color: cyan;
+border-style: groove; color: aqua;
 }
