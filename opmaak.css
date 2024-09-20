@@ -29,7 +29,8 @@ li a {
 width: 350;
 height: 250;
 text-align: center;
-margin: 5%;
+margin: 0%;
+padding: 0%;
 border-style: solid; 
 color: aqua;
 }
