@@ -29,8 +29,10 @@ li a {
     text-decoration:none;
 }
 .binarybonanza{
-width: 150;
-height: 50;
+width: 200;
+height: 150;
+margin-left: 0%;
+margin-right: 0%;
 text-align: center;
 border-style: solid; 
 border-color: aqua;
