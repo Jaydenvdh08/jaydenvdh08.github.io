@@ -36,10 +36,14 @@ border-style: solid;
 border-color: aqua;
 }
 .overmijborder{
-    text-align: center;
     border-style: groove;
     border-color: aqua;
 }
 .indexopmaak{
+    text-align: center;
+}
+.kleinejayden{
+    border-style: groove;
+    border-color: aqua;
     text-align: center;
 }
