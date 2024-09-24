@@ -36,6 +36,8 @@ li a {
 width: auto;
 height: auto;
 text-align: center;
+border-style: solid;
+border-color: aqua;
 }
 .overmijborder{
     border-style: groove;
