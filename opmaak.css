@@ -5,6 +5,7 @@ h1{
     text-align: center;
     border-style: dotted;
     border-color: blue;
+    margin: 0;
 }
 ul{
     list-style-type: none;
