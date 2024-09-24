@@ -3,6 +3,8 @@ body{
 }
 h1{
     text-align: center;
+    border-style: dotted;
+    border-color: blue;
 }
 ul{
     list-style-type: none;
