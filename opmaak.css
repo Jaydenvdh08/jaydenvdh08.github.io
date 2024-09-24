@@ -30,8 +30,8 @@ li a {
     text-decoration:none;
 }
 .binarybonanza{
-width: 200;
-height: 150;
+width: auto;
+height: auto;
 padding: 0;
 text-align: center;
 border-style: solid; 
