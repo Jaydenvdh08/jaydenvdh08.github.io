@@ -39,8 +39,8 @@ border-color: aqua;
 }
 .overmijborder{
     text-align: left;
-    border-style: groove;
-    border-color: aqua;
+    border-style: hidden;
+    background-color: white;
 }
 .indexopmaak{
     text-align: center;
