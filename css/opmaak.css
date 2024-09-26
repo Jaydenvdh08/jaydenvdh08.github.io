@@ -65,3 +65,9 @@ border-color: aqua;
 .cmy{
     text-align: center;
 }
+.footer{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    width: 100%;
+}
