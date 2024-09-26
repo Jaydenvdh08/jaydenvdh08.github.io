@@ -66,6 +66,7 @@ border-color: aqua;
     text-align: center;
 }
 .footer{
+    position: fixed;
     text-align: left;
     background-color: blue;
     color: white;
