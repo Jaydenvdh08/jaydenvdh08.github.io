@@ -12,6 +12,7 @@ h2{
     border-color: blue;
 }
 ul{
+    position: fixed;
     list-style-type: none;
     margin: 0;
     padding: 0;
