@@ -26,9 +26,6 @@ li a:hover {
     color: white;
 }
 li a {
-    position: fixed;
-    top: 0;
-    width: 100%;
     display: block;
     color: rgb(246, 255, 0);
     text-align: right;
