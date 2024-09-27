@@ -1,29 +1,29 @@
-body{
-    background-color: beige;
+body{ /*dit geldt voor elke body*/
+    background-color: beige; /*achtergrondkleur van elke pagina*/
 }
-h1{
+h1{ /*dit geldt voor elke h1*/
+    text-align: center; /*tekst staat in het midden van de breedte*/
+    border-style: double; /*2 lijnen als border*/
+    border-color: blue; /*blauwe border*/
+}
+h2{ /*dit geldt voor elke h2*/
     text-align: center;
-    border-style: double;
+    border-style: dotted; /*border met stippen*/
     border-color: blue;
 }
-h2{
-    text-align: center;
-    border-style: dotted;
-    border-color: blue;
-}
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: green;
+ul{ /*dit geldt voor elke unordered list*/
+    list-style-type: none; /*geen list-style-type*/
+    margin: 0; /*er is geen ruimte buiten de rand*/
+    padding: 0; /*er is geen ruimte tussen de binnenste box en de buitenste box*/
+    overflow: hidden; /*de rest van de inhoud is verborgen*/
+    background-color: green; /*achtergrondkleur van het menu is groen*/
 }
 li a{
-    float: left;
+    float: left; /*het menu staat aan de linker kant van de pagina*/
 }
-li a:hover {
-    background-color: #db3f2b;
-    color: white;
+li a:hover { /*als je met je muis over het menu heen gaat dan gelden de 2 dingen van hieronder*/
+    background-color: #db3f2b; /*achtergrond kleur als je met je muis over het menu gaat*/
+    color: white; 
 }
 li a {
     display: block;
