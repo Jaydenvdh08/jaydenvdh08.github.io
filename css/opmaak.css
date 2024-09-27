@@ -80,3 +80,8 @@ border-color: aqua;
  .lossless{
     text-align: left;
  }
+ .fixedlist{
+    position: fixed;
+    top: 0;
+    width: 100%;
+ }
