@@ -38,7 +38,7 @@ border-style: solid; /*zorgt voor een dikke rand om de container*/
 border-color: aqua; /*kleur van de border*/
 }
 .overmijborder{ /*opmaak voor deze container*/
-    text-align: center;
+    text-align: center; /*container inhoud staat in het midden van de breedte/*
     border-style: hidden; /*border is verborgen*/
     background-color: white;
 }
@@ -47,7 +47,7 @@ border-color: aqua; /*kleur van de border*/
 }
 .kleinejayden{
     text-align: center;
-    border-style: groove;
+    border-style: groove; /*een groeve rand om de border*/
     border-color: aqua;
 }
 .bits{
@@ -65,11 +65,11 @@ border-color: aqua; /*kleur van de border*/
 .cmy{
     text-align: center;
 }
-.footer {
-    position: sticky;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+.footer { /*voettekst onderaan de pagina*/
+    position: sticky; /*de footer staat aan de onderkant van het scherm en gaat mee als er gescrollt wordt*/
+    left: 0; /*geen ruimte links*/
+    bottom: 0; /*geen ruimte onder*/
+    width: 100%; /*balk van de footer is over de hele breedte*/
     background-color: blue;
     color: white;
     text-align: center;
@@ -80,13 +80,13 @@ border-color: aqua; /*kleur van de border*/
  .lossless{
     text-align: left;
  }
- .fixedlist{
-    position: fixed;
-    top: 0;
+ .fixedlist{ /*menu verschuift mee bij scrollen*/
+    position: fixed;  /*menu verschuift mee bij scrollen*/
+    top: 0; /*geen ruimte boven*/
     width: 100%;
  }
  .inhoud{
-    margin-top: 35px;
+    margin-top: 35px; /*de ruimte (35 pixels in dit geval) tussen het menu en h1 in dit geval*/
  }
  .bitmap{
     text-align: center;
