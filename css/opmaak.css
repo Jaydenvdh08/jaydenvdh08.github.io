@@ -23,23 +23,23 @@ li a{
 }
 li a:hover { /*als je met je muis over het menu heen gaat dan gelden de 2 dingen van hieronder*/
     background-color: #db3f2b; /*achtergrond kleur als je met je muis over het menu gaat*/
-    color: white; 
+    color: white; /*kleur van de letters als je met je muis over het menu gaat*/
 }
-li a {
-    display: block;
-    color: rgb(246, 255, 0);
+li a { /*listed index, een deel van het menu*/
+    display: block; /*blokjesmenu*/
+    color: rgb(246, 255, 0); /*kleur van de letter bij het menu*/
     text-align: right;
-    padding: 18px;
-    text-decoration:none;
+    padding: 18px; /*zoveel pixels hoog is het menu*/
+    text-decoration:none; /*geen tekst decoratie*/
 }
-.binarybonanza{
-text-align: center;
-border-style: solid;
-border-color: aqua;
+.binarybonanza{ /*het spelletje bij de pagina van binaire*/
+text-align: center; /*zorgt ervoor dat het spelletje in het midden van de breedte staat*/
+border-style: solid; /*zorgt voor een dikke rand om de container*/
+border-color: aqua; /*kleur van de border*/
 }
-.overmijborder{
+.overmijborder{ /*opmaak voor deze container*/
     text-align: center;
-    border-style: hidden;
+    border-style: hidden; /*border is verborgen*/
     background-color: white;
 }
 .indexopmaak{
